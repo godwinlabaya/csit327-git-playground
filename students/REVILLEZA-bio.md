@@ -1,4 +1,4 @@
-- Year/Section: e.g., 3rd Year / G1
-- Favorite Language: e.g., Java
-- One Git Tip Learned: e.g., Use `git status` often
-- GitHub: @blissfuljuan
+- Year/Section: 3rd Year / G1
+- Favorite Language: Java
+- One Git Tip Learned: `git commit` is used to record changes to the local repository.
+- GitHub: @godwinlabaya
